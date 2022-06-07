@@ -15,8 +15,8 @@ media platforms.**<br>
 <br>
 ## My Projects<br>
 <br>
-- 1 https://kevinimmauel.github.io/WeatherFlaskApp/
-- 2 https://github.com/KevinImmauel/calculator.github.io
+- 1 https://kevinimmauel.github.io/WeatherFlaskApp/<br>
+- 2 https://github.com/KevinImmauel/calculator.github.io<br?
 - 3 <a href="https://kevinimmauel.github.io/portfolio/">My Portfolio</a><br>
-- 4 https://kevinimmauel.github.io/What-time-is-it/
-- 5 https://github.com/KevinImmauel/password--generator
+- 4 https://kevinimmauel.github.io/What-time-is-it/<br>
+- 5 https://github.com/KevinImmauel/password--generator<br>
