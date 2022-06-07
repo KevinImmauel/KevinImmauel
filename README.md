@@ -1,16 +1,22 @@
-### Hello_there!<br>
-### I_am_Kevin.Immanuel<br>
+# Hello there!<br>
+### I am Kevin Immanuel<br>
 <br>
-About_Me<br>
+## About_Me<br>
 <br>
-I'm a 15-year-old computer enthusiast learning about web development and design.<br>
-There's not much to tell about me, but I play games and cut onions too.<br>
-Check out my GitHub or other social media accounts so we can get in touch.<br>
+**I'm a 17-year-old computer enthusiast learning about web development<br>
+and design.<br>
 <br>
-My_Projects<br>
+I enjoy coding and playing games. You can find me in Valorant <br>
+match-making on the Mumbai server. I love art and making random<br>
+wallpapers as a hobby.<br>
 <br>
-- 1 <a href="https://cousins-4-ever.web.app/">My Cousins</a><br>
-- 2 <a href="https://password--generator.web.app/">Passwword--Generator</a><br>
-- 3 <a href="https://kevin-immanuel.web.app/">My Portfolio</a><br>
-- 4 <a href="https://tell-me-what-time-is-it.web.app/">JS Clock</a><br>
-- 5 <a href="https://kevinimmauel.github.io/calculator.github.io/">Calculator</a><br>
+You can check out my projects or contact me on discord and other social<br>
+media platforms.**<br>
+<br>
+## My Projects<br>
+<br>
+- 1 https://kevinimmauel.github.io/WeatherFlaskApp/
+- 2 https://github.com/KevinImmauel/calculator.github.io
+- 3 <a href="https://kevinimmauel.github.io/portfolio/">My Portfolio</a><br>
+- 4 https://kevinimmauel.github.io/What-time-is-it/
+- 5 https://github.com/KevinImmauel/password--generator
